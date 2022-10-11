@@ -26,3 +26,7 @@ Sou o Alexandre Oliveira, sou um Programador Front End. Atualmente estou estudan
   <br>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre990)](https://github.com/anuraghazra/github-readme-stats)
+  
+  <br>
+  
+  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
