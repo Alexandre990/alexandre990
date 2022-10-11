@@ -1,21 +1,28 @@
-### Hi there 👋
+  <h1>Alexandre Souza de Oliveira</h1>
 
-Sou o Alexandre Oliveira, sou um Programador Front End. Atualmente estou estudando e praticando projetos:
-<br>
+  Sou um Programador Front-end Júnior. Tenho alguns projetos desenvolvidos com HTML, CSS e JavaScript. Atualmente estou estudando e praticando projetos:
+  <br>
   - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height=20px />
   - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height=20px />
   - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height=20px />
   
- Em breve:
- <br>
+   Em breve:
+   <br>
   - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height=20px />
+  - <img src ="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height=20px />
   
 
-### Connect with me:
+  <h2>Venha me conhecer:</h2>
 
   <p>
   <a href="https://www.instagram.com/alixandre.souza/">
-  <img align="left" alt="icone do instagram uma camera dentro de um quadrado" width="22px" src="https://camo.githubusercontent.com/c80f9763ed06d4ab9fbcc1a74b8b74cd95e4c7f82d3f1f70233994f236a0faeb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="max-width: 100%;">
+  <img align="left" alt="icone do instagram uma camera dentro de um quadrado" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/alexandre-souza-de-oliveira-56b2b2226/">
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  </p>
   
   <br>
   <br>
