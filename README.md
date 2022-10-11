@@ -15,8 +15,8 @@
   <h2>Venha me conhecer:</h2>
 
   <p>
-  <a href="https://www.instagram.com/alixandre.souza/" target="_blank">
-  <img align="left" alt="icone do instagram uma camera dentro de um quadrado" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"         target="_blank" />
+  <a href="https://www.instagram.com/alixandre.souza/">
+  <img align="left" alt="icone do instagram uma camera dentro de um quadrado" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>target="_blank"
   </a>
   
   <a href="https://www.linkedin.com/in/alexandre-souza-de-oliveira-56b2b2226/">
