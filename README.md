@@ -16,11 +16,15 @@
 
   <p>
   <a href="https://www.instagram.com/alixandre.souza/">
-  <img align="left" alt="icone do instagram uma camera dentro de um quadrado" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>target="_blank"
+  <img align="left" alt="icone do instagram uma camera dentro de um quadrado" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
   </a>
   
   <a href="https://www.linkedin.com/in/alexandre-souza-de-oliveira-56b2b2226/">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  
+  <a href="https://github.com/Alexandre990/">
+  <img align="left" alt="GitHub" width="22px" src="https://github.githubassets.com/images/modules/dashboard/onboarding/gh-desktop.png" />
   </a>
   </p>
   
