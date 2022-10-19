@@ -40,4 +40,4 @@
   
   <br>
   
-  ![Snake animation](https://github.com/alexandre990/alexandre990/blob/output/github-contribution-grid-snake.svg)
+  
